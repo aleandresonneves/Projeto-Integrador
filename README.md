@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ETL — Distribuidora Vetor (Desafio Técnico 1) Desafio PRIMORA
 
 Pipeline em Python que limpa e enriquece a base de clientes (bairro, CEP, CNPJ, telefone, data, e-mail),
@@ -77,3 +78,7 @@ Devem passar 76 testes.
 python -c "import sqlite3; c=sqlite3.connect('vetor.db'); print(c.execute('SELECT bairro, COUNT(*) FROM clientes_tratados GROUP BY bairro').fetchall())"
 
 Lembretes
+=======
+# Projeto-Integrador
+Aqui está o projeto da empresa Primora.
+>>>>>>> 1f8bd9a2a1be3150ae3f67fc9ac2c27091c1d3df
